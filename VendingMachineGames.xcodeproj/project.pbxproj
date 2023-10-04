@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A1E8B182ACE6276004F5139 /* KontolView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1E8B172ACE6276004F5139 /* KontolView.swift */; };
+		2A1E8B1A2ACE69E2004F5139 /* TapGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A1E8B192ACE69E2004F5139 /* TapGameView.swift */; };
 		2A6DC20E2ACD01880038092A /* VendingMachineGamesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6DC20D2ACD01880038092A /* VendingMachineGamesApp.swift */; };
 		2A6DC2102ACD01880038092A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6DC20F2ACD01880038092A /* ContentView.swift */; };
 		2A6DC2122ACD01890038092A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A6DC2112ACD01890038092A /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2A1E8B172ACE6276004F5139 /* KontolView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KontolView.swift; sourceTree = "<group>"; };
+		2A1E8B192ACE69E2004F5139 /* TapGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGameView.swift; sourceTree = "<group>"; };
 		2A6DC20A2ACD01880038092A /* VendingMachineGames.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VendingMachineGames.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A6DC20D2ACD01880038092A /* VendingMachineGamesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VendingMachineGamesApp.swift; sourceTree = "<group>"; };
 		2A6DC20F2ACD01880038092A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +57,8 @@
 			children = (
 				2A6DC20D2ACD01880038092A /* VendingMachineGamesApp.swift */,
 				2A6DC20F2ACD01880038092A /* ContentView.swift */,
+				2A1E8B172ACE6276004F5139 /* KontolView.swift */,
+				2A1E8B192ACE69E2004F5139 /* TapGameView.swift */,
 				2A6DC2112ACD01890038092A /* Assets.xcassets */,
 				2A6DC2132ACD01890038092A /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2A6DC2102ACD01880038092A /* ContentView.swift in Sources */,
+				2A1E8B182ACE6276004F5139 /* KontolView.swift in Sources */,
+				2A1E8B1A2ACE69E2004F5139 /* TapGameView.swift in Sources */,
 				2A6DC20E2ACD01880038092A /* VendingMachineGamesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
